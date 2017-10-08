@@ -1,4 +1,4 @@
-package com.learn.groovyinaction.groovybasics
+package com.learn.groovyinaction.datatypes
 
 import groovy.transform.Immutable
 
